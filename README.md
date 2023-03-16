@@ -158,3 +158,4 @@ Sistemden default gelen kısayolları da aslında değiştirebiliyorsunuz. Termi
 **Ctrl + D** Veri girişinin sonunu temsil eden yani mevcut terminali sonlandırır.<br />
 **TAB** Otomatik tamamlamayı sağlar. Konsol üzerinden bir kısmını yazmış olduğunuz, dosya, dizin ve komut türevi her türlü ifadeyi otomatik tamamlar. Ayrıca iki kez üst üste basıldığında da yazmış olduğunuz ifade ile başlayan tüm içeriği listeler.<br />
 **Crtl + Alt + (f1, f2, f3, f4, f5, f6)** kısayolu ile komut satırını açabiliriz.
+
